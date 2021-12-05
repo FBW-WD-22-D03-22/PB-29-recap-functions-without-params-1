@@ -1,0 +1,1 @@
+# javascript-recap-functions-without-params

@@ -1,4 +1,4 @@
-# javascript-recap-functions-without-params
+const# javascript-recap-functions-without-params
 
 Erstelle eine Konstante mit der Zahl 7.
 

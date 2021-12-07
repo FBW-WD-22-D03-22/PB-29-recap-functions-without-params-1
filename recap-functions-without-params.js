@@ -11,4 +11,5 @@ function berechnung() {
     return division;
 }
 
-berechnung();
+let resultat = berechnung();
+console.log(resultat);

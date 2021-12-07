@@ -8,7 +8,7 @@ function berechnung() {
     let adition = ersteKonstante + zweiteKonstante;
     let multiplikation = adition * dritteKonstante;
     let division = multiplikation / vierteKonstante;
-    console.log(division);
+    return division;
 }
 
 berechnung();

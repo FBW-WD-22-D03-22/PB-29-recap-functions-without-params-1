@@ -5,7 +5,7 @@ const d = 10;
 
 function inVoice() {
     let ergebnis = (a + b) * c / d;
-    console.log("(a + b) * c / d = ", ergebnis); // 23
+    console.log("(a + b) * c / d = ", ergebnis); 
 }
 
 

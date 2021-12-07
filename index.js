@@ -6,7 +6,7 @@ const vierteZahl = 10;
 
 function ergebniss() {
     let resultat = ersteZahl + zweiteZahl * driteZahl / vierteZahl;
-    console.log("addition",resultat);
+    console.log("ergebniss",resultat);
   }
   
   

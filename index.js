@@ -6,5 +6,5 @@ const vierteZahl = 10;
 function addition(){
     return (ersteZahl + zweiteZahl)*dritteZahl/vierteZahl;
 }
-let ergibns = addition();
+let ergebnis = addition();
 console.log(ergibns);

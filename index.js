@@ -5,11 +5,11 @@ const number4 = 10;
 
 function rechnen(){
     let ergebnis = (number + number2) * number3 / number4;
-    console.log(ergebnis);
+    return ergebnis;
 }
 
-let ergebnis = rechnen();
+let result = rechnen();
 
 
 
-rechnen();
+console.log(result)

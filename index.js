@@ -7,4 +7,4 @@ function addition(){
     return (ersteZahl + zweiteZahl)*dritteZahl/vierteZahl;
 }
 let ergebnis = addition();
-console.log(ergibns);
+console.log(ergebnis);
